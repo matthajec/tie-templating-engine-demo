@@ -1,6 +1,6 @@
 # Templating Engine Demo
 ## Description
-This is a demo of my templating engine, tie (terrible insecure engine). It has some securit vulnerabilities, namely allowing users to run server-side code. Never use this. 
+This is a demo of my templating engine, tie (terrible insecure engine). It has some security vulnerabilities, namely allowing users to run server-side code. Never use this. 
 
 ## Starting
 To start the application, use ```npm i``` to download the modules, then run ```npm start```
