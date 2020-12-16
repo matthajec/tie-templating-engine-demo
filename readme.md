@@ -7,7 +7,7 @@ To start the application, use ```npm i``` to download the modules, then run ```n
 
 # Usage
 ## Using functions:
-Enclose any function within $()$ to run it. Whatever is returned from the function is displayed on the screen. Never allow any user inputted information in here, as they could escape your function and run server side code.
+Enclose any function within $(```your function here```)$ to run it. Whatever is returned from the function is displayed on the screen. Never allow any user inputted information in here, as they could escape your function and run server side code.
 ### Example:
 This example will return the text '2' (the result of ```1+1```) into the generated HTML
 ```
