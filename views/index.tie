@@ -8,9 +8,13 @@
 </head>
 
 <body>
-  Simple Templating Engine
+  Terrible Insecure Engine
+  <br />
+  The random number #(num1)# and #(num2)# are 
   $(#(num1)# === #(num2)# ? 'double' :
   'not double')$
+  <br />
+  Refresh to re roll.
 </body>
 
 </html>
